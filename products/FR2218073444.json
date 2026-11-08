@@ -14,7 +14,19 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Collaboration",
+      "Communication",
+      "Development Tools",
+      "Education & Training",
+      "Human Resources",
+      "Law Enforcement",
+      "Marketing & Sales",
+      "Network Management",
+      "Research",
+      "System Administration"
+    ]
   },
   "contactInformation": [
     {
@@ -30,6 +42,29 @@
     "name": "Kratos",
     "assessorID": "137255"
   },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2432940371",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "F1303191948",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1931476240",
+        "useCase": ""
+      }
+    ]
+  },
+  "certifiedServices": [
+    {
+      "serviceName": "Lucid GovSuite",
+      "serviceDescription": "",
+      "dateAvailable": "2023-09-12"
+    }
+  ],
   "ZD_frid_retro": "FR2218073444",
   "id_matches_expected": true
 }

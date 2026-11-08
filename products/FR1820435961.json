@@ -14,7 +14,19 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Collaboration",
+      "Construction",
+      "Finance",
+      "Fleet Management",
+      "Human Resources",
+      "Law Enforcement",
+      "Legal & Policy",
+      "Marketing & Sales",
+      "Operations Management",
+      "Travel Management"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +41,18 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "F1308202329",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1815547467",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR1820435961",
   "id_matches_expected": true

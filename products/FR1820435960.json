@@ -14,7 +14,17 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Collaboration",
+      "Communication",
+      "Content Management System (CMS)",
+      "Design & Multimedia",
+      "Development Tools",
+      "Education & Training",
+      "Marketing & Sales",
+      "Media"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +39,22 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2106555313",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1907354404",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1832869359",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR1820435960",
   "id_matches_expected": true

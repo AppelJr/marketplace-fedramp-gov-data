@@ -13,7 +13,11 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Data Management"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +32,14 @@
   "assessor": {
     "name": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
     "assessorID": "138665"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2406651384",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2406651384",
   "id_matches_expected": true

@@ -13,7 +13,12 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Communication",
+      "Customer Service",
+      "Operations Management"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +33,14 @@
   "assessor": {
     "name": "Coalfire Systems, Inc.",
     "assessorID": "138514"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "F1303191948",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR1728351539",
   "id_matches_expected": true

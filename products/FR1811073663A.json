@@ -14,7 +14,18 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Collaboration",
+      "Content Management System (CMS)",
+      "Data Management",
+      "Development Tools",
+      "Operations Management",
+      "Research",
+      "Storage",
+      "System Administration"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +40,18 @@
   "assessor": {
     "name": "Emagine IT",
     "assessorID": "137046"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2235965777",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2214346691",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR1811073663A",
   "id_matches_expected": true

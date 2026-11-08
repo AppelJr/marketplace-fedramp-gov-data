@@ -14,7 +14,17 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Collaboration",
+      "Content Management System (CMS)",
+      "Customer Relations Management (CRM)",
+      "Data Management",
+      "Human Resources",
+      "Law Enforcement",
+      "Legal & Policy"
+    ]
   },
   "contactInformation": [
     {
@@ -30,6 +40,13 @@
     "name": "Kratos",
     "assessorID": "137255"
   },
+  "certifiedServices": [
+    {
+      "serviceName": "Armedia Content Cloud",
+      "serviceDescription": "",
+      "dateAvailable": "2024-09-24"
+    }
+  ],
   "ZD_frid_retro": "FR1708752710",
   "id_matches_expected": true
 }

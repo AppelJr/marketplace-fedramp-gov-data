@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "export_timestamp": "2026-10-23T22:24:56.902Z",
-    "total_entries": 15,
+    "export_timestamp": "2026-11-08T05:10:32.031Z",
+    "total_entries": 21,
     "description": "FedRAMP data MKT-CAS-WEB export from GSA system"
   },
   "data": {
@@ -43,7 +43,7 @@
         ],
         "advisor_id": "fortinetics-llc",
         "fedramp_listing_timestamp": "2026-08-27T16:29:43Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:46Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:12Z"
       },
       {
         "advisorName": "Verdict Technologies Inc.",
@@ -68,7 +68,7 @@
         ],
         "advisor_id": "verdict-technologies-inc",
         "fedramp_listing_timestamp": "2026-08-27T16:29:41Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:46Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:13Z"
       },
       {
         "advisorName": "Elevate Consult",
@@ -107,41 +107,48 @@
         ],
         "advisor_id": "elevate-consult",
         "fedramp_listing_timestamp": "2026-09-11T17:52:09.548Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:47Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:15Z"
       },
       {
-        "$schema": "https://fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json",
         "advisorName": "Steel Patriot Partners",
         "logo": "https://www.steelpatriotpartners.com/hubfs/Steel_Patriot_Partners_logo.svg",
-        "serviceDescription": "Steel Patriot Partners is a cybersecurity and data governance advisory firm that helps cloud service providers and their customers navigate FedRAMP. We advise organizations on FedRAMP readiness, authorization strategy, security control implementation, continuous monitoring, and data governance so they can achieve and maintain FedRAMP authorization efficiently.",
-        "contactInformation": [
-          "Company: Steel Patriot Partners",
-          "Contact: Doug Stonier, Director of Compliance",
-          "Phone: 855-578-7272",
-          "Email: security-alerts@steelpatriotpartners.com",
-          "Website: https://www.steelpatriotpartners.com"
-        ],
+        "serviceDescription": "Steel Patriot Partners (SPP) is a cybersecurity systems integrator specializing in the design, implementation, and operation of secure, compliant cloud environments. We help cloud service providers navigate FedRAMP by combining compliance expertise, cloud engineering, cybersecurity integration, and ongoing operational support.\n\nSPP's leadership brings decades of experience across federal cloud services, cybersecurity engineering, independent security assessments, and compliance program operations. Our team includes leaders who built and operated one of the early FedRAMP cloud service providers, held senior assessment and advisory roles at Schellman, and served in leadership positions at HITRUST and PwC. This collective experience provides insight into FedRAMP from the perspectives of cloud service providers, independent assessors, and the teams responsible for implementing and maintaining security controls.\n\nOur services span the full FedRAMP lifecycle, including readiness assessments, compliance program development, secure cloud architecture and engineering, technical control implementation, assessment preparation, and continuous compliance operations. SPP supports FedRAMP Rev. 5, FedRAMP 20x, and other federal security requirements across AWS GovCloud, Microsoft Azure Government, GCP, and other regulated cloud environments including on prem solutions.\n\nUnlike traditional compliance only advisory firms, SPP combines regulatory expertise with hands on engineering and operational capabilities. We help organizations translate FedRAMP requirements into implemented security controls, reduce technical and compliance risk, and establish sustainable security and compliance programs that extend beyond initial certification.",
+        "contactInformation": {
+          "pointOfContactName": "Amy Ford",
+          "jobTitle": "Chief Operating Officer",
+          "email": "fedramp@steelpatriotpartners.com",
+          "phone": "855-578-7272",
+          "companyWebsite": "https://www.steelpatriotpartners.com"
+        },
         "servicesOffered": [
           {
-            "serviceName": "FedRAMP Readiness & Advisory",
-            "serviceDescription": "Gap assessments, readiness reviews, and advisory support to prepare cloud service offerings for FedRAMP authorization."
+            "serviceName": "Assessments - FedRAMP Readiness and Strategy\n\n",
+            "serviceDescription": "Assessment of existing cloud environments, security controls, and compliance programs against FedRAMP requirements. Drawing on experience from both cloud service provider operations and independent security assessments, SPP evaluates technical implementation, control effectiveness, documentation, and operational readiness. Services include readiness and gap assessments, system boundary evaluation, security architecture reviews, control applicability, remediation planning, and certification roadmaps. SPP helps organizations identify deficiencies that could affect independent assessments and establish a practical, risk-based path toward FedRAMP certification.\n\n"
           },
           {
-            "serviceName": "Security Control Implementation Support",
-            "serviceDescription": "Guidance on implementing and documenting the security and privacy controls required for FedRAMP authorization."
+            "serviceName": "Cybersecurity Compliance Program Build\n\n",
+            "serviceDescription": "Design and implementation of FedRAMP compliance programs aligned with Rev. 5, FedRAMP 20x, and applicable federal requirements. Services include control implementation planning, System Security Plan (SSP) development, policies and procedures, evidence management, POA&M development, compliance automation, and assessment preparation. SPP integrates compliance requirements into operational processes to establish a sustainable program that supports initial certification and ongoing compliance.\n\n"
           },
           {
-            "serviceName": "Continuous Monitoring & Ongoing Authorization",
-            "serviceDescription": "Advisory support for maintaining FedRAMP authorization, including continuous monitoring, vulnerability management, and reporting."
+            "serviceName": "Cloud and Security Engineering\n\n",
+            "serviceDescription": "Architecture, engineering, and implementation of secure cloud environments designed to meet FedRAMP requirements. Services include cloud security architecture, system boundary implementation, identity and access management, network security, encryption, security hardening, DevSecOps integration, and technical security control implementation. SPP integrates cloud infrastructure and cybersecurity technologies to establish secure, operationally sustainable environments across AWS GovCloud, Microsoft Azure Government, GCP, and other supported platforms.\n\n"
           },
           {
-            "serviceName": "Cybersecurity Data Governance",
-            "serviceDescription": "Advisory services for establishing data governance, data protection, and compliance practices aligned to federal security requirements."
+            "serviceName": "Cybersecurity Compliance Operations\n\n",
+            "serviceDescription": "Ongoing management and operational support of FedRAMP compliance programs following initial implementation or certification. Services include continuous monitoring, POA&M management, control and documentation maintenance, evidence collection, change impact assessments, vulnerability oversight, and coordination with independent assessors and federal stakeholders. SPP also supports evolving FedRAMP requirements, including CR26, Vulnerability Detection and Response (VDR), Vulnerability Evaluation and Reporting (VER), and FedRAMP 20x transition activities.\n\n"
+          },
+          {
+            "serviceName": "Security Engineering Operations\n\n",
+            "serviceDescription": "Ongoing security engineering and operational support for cloud environments operating under FedRAMP requirements. Services include security platform administration, vulnerability management, configuration management, cloud security monitoring, security tool integration, infrastructure security maintenance, and remediation support. SPP operates and optimizes cybersecurity technologies, including SIEM, endpoint protection, cloud security posture management, vulnerability scanning, and identity security platforms, to maintain the technical effectiveness of implemented security controls.\n\n"
+          },
+          {
+            "serviceName": "Executive Advisement - Federal Cloud and Compliance Strategy\n\n",
+            "serviceDescription": "Strategic advisory services for organizations pursuing or maintaining FedRAMP certification. Drawing on leadership experience in federal cloud service delivery, independent security assessments, and compliance program management, SPP advises executive and technical leadership on certification pathways, federal cloud strategy, regulatory requirements, security investment priorities, and program governance. Services include assessment strategy, regulatory interpretation, federal stakeholder coordination, and long-term operational planning. SPP helps organizations align federal market objectives with technical architecture, compliance investments, and sustainable security operations."
           }
         ],
         "advisor_id": "steel-patriot-partners",
         "fedramp_listing_timestamp": "2026-09-11T17:52:09.548Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:47Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:16Z"
       },
       {
         "advisorName": "SunStone Secure",
@@ -169,7 +176,7 @@
         ],
         "advisor_id": "sunstone-secure",
         "fedramp_listing_timestamp": "2026-09-11T17:52:09.548Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:47Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:16Z"
       },
       {
         "advisorName": "Skirret Consulting, LLC",
@@ -199,7 +206,7 @@
         ],
         "advisor_id": "skirret-consulting-llc",
         "fedramp_listing_timestamp": "2026-09-11T17:52:09.548Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:47Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:17Z"
       },
       {
         "advisorName": "38North Security",
@@ -243,7 +250,7 @@
         ],
         "advisor_id": "38north-security",
         "fedramp_listing_timestamp": "2026-09-16T13:39:40.901Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:48Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:17Z"
       },
       {
         "advisorName": "InfusionPoints",
@@ -305,7 +312,7 @@
         ],
         "advisor_id": "infusionpoints",
         "fedramp_listing_timestamp": "2026-09-21T19:18:04.483Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:49Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:19Z"
       },
       {
         "advisorName": "Workstreet",
@@ -349,7 +356,7 @@
         ],
         "advisor_id": "workstreet",
         "fedramp_listing_timestamp": "2026-09-21T19:18:04.483Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:48Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:18Z"
       },
       {
         "$comment": "Conforms to FedRAMP Advisor Information Schema (MKT-CAS-WEB), version 2.0.0, https://www.fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json.",
@@ -396,7 +403,7 @@
         ],
         "advisor_id": "emagine-it-inc",
         "fedramp_listing_timestamp": "2026-09-21T19:18:04.483Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:49Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:19Z"
       },
       {
         "$schema": "https://www.fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json",
@@ -437,7 +444,7 @@
         ],
         "advisor_id": "stackarmor",
         "fedramp_listing_timestamp": "2026-10-02T20:17:02.951Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:49Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:20Z"
       },
       {
         "advisorName": "bladestack.io",
@@ -523,7 +530,7 @@
         "a2laId": "202696",
         "advisor_id": "bladestack-io",
         "fedramp_listing_timestamp": "2026-10-02T20:17:02.951Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:50Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:21Z"
       },
       {
         "advisorName": "YGI Solutions",
@@ -568,17 +575,20 @@
         ],
         "advisor_id": "ygi-solutions",
         "fedramp_listing_timestamp": "2026-10-02T20:17:02.951Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:50Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:21Z"
       },
       {
         "$schema": "https://fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json",
         "advisorName": "THONIS SYSTEMS LLC",
         "logo": "https://thonissystems.com/decks/media/thonis-lockup-color.png",
         "serviceDescription": "THONIS SYSTEMS LLC provides scoped advisory services that connect security claims, vulnerability decisions and reporting handoffs to their supporting evidence, applicable service boundary and accountable owner. Engagements begin with a written fit review and an agreed scope. THONIS prepares decision and response materials for customer review; independent assessment, FedRAMP certification and agency authorization decisions remain with the responsible organizations.",
-        "contactInformation": [
-          "THONIS SYSTEMS LLC — john.mawad@thonissystems.com",
-          "https://thonissystems.com/advisory"
-        ],
+        "contactInformation": {
+          "pointOfContactName": "John Mawad",
+          "jobTitle": "Managing Member",
+          "email": "john.mawad@thonissystems.com",
+          "phone": "",
+          "companyWebsite": "https://thonissystems.com"
+        },
         "servicesOffered": [
           {
             "serviceName": "Cloud Vulnerability Decision & Reporting Sprint",
@@ -591,7 +601,7 @@
         ],
         "advisor_id": "thonis-systems-llc",
         "fedramp_listing_timestamp": "2026-10-02T20:17:02.951Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:51Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:23Z"
       },
       {
         "advisorName": "SecureIT",
@@ -650,7 +660,302 @@
         ],
         "advisor_id": "secureit",
         "fedramp_listing_timestamp": "2026-10-02T20:17:02.951Z",
-        "last_fetched_timestamp": "2026-10-23T22:24:51Z"
+        "last_fetched_timestamp": "2026-11-08T05:10:23Z"
+      },
+      {
+        "advisorName": "Ace of Cloud",
+        "logo": "https://aceofcloud.com/assets/AOC-LOGO.png",
+        "serviceDescription": "Ace of Cloud is a cybersecurity, compliance, and secure cloud advisory firm helping cloud service providers prepare for FedRAMP. We support providers pursuing authorization under FedRAMP 20x or the Rev5 framework, from initial gap assessment through continuous monitoring. Ace of Cloud provides advisory and readiness services only and does not perform FedRAMP assessments.",
+        "contactInformation": {
+          "pointOfContactName": "Zayed Chowdhury",
+          "jobTitle": "Founder & CEO",
+          "email": "Fedramp@aceofcloud.com",
+          "phone": "703-488-8889",
+          "companyWebsite": "https://aceofcloud.com"
+        },
+        "servicesOffered": [
+          {
+            "serviceName": "Gap Assessment",
+            "serviceDescription": "Evaluation of a cloud service provider's current environment against FedRAMP requirements under 20x or Rev5, identifying gaps and a remediation path."
+          },
+          {
+            "serviceName": "Readiness",
+            "serviceDescription": "Preparation of documentation, evidence, and authorization boundary so a provider is ready to proceed under the applicable FedRAMP pathway."
+          },
+          {
+            "serviceName": "Audit Support",
+            "serviceDescription": "Preparing providers for, and supporting them through, their independent third-party assessment."
+          },
+          {
+            "serviceName": "Continuous Monitoring (CONMON) Support",
+            "serviceDescription": "Ongoing support for continuous monitoring and reporting activities to help maintain a provider's FedRAMP authorization after it is granted."
+          }
+        ],
+        "advisor_id": "ace-of-cloud",
+        "fedramp_listing_timestamp": "2026-11-04T16:43:00Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:24Z"
+      },
+      {
+        "$schema": "https://fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json",
+        "advisorName": "ControlSolid",
+        "logo": "https://controlsolid.com/favicon.png",
+        "serviceDescription": "ControlSolid provides FedRAMP readiness assessment, gap-analysis consulting and scoped GRC engineering support for cloud service providers, SaaS companies and technology vendors preparing a U.S. federal offering. Support connects applicable requirements to technical checks, traceable evidence and structured reporting for the selected path and class.",
+        "contactInformation": {
+          "pointOfContactName": "Kelvin O. Medina",
+          "jobTitle": "Founder & Managing Principal",
+          "email": "hello@controlsolid.com",
+          "phone": "+1-561-330-5757",
+          "companyWebsite": "https://controlsolid.com"
+        },
+        "servicesOffered": [
+          {
+            "serviceName": "FedRAMP readiness assessment"
+          },
+          {
+            "serviceName": "FedRAMP gap analysis"
+          },
+          {
+            "serviceName": "FedRAMP 20x readiness and scoped GRC engineering"
+          },
+          {
+            "serviceName": "Requirement and KSI traceability, technical verification and evidence quality review"
+          },
+          {
+            "serviceName": "Scoped evidence integration and schema-aligned reporting support"
+          },
+          {
+            "serviceName": "System boundary and data-flow scoping"
+          },
+          {
+            "serviceName": "Cloud architecture and inherited-control review"
+          },
+          {
+            "serviceName": "NIST SP 800-53 Rev. 5 control gap analysis"
+          },
+          {
+            "serviceName": "SSP and evidence roadmap"
+          },
+          {
+            "serviceName": "POA&M and remediation planning"
+          },
+          {
+            "serviceName": "Incident response and continuous monitoring readiness"
+          },
+          {
+            "serviceName": "Independent 3PAO coordination preparation"
+          },
+          {
+            "serviceName": "GRC and compliance automation platform evaluation and workflow support"
+          }
+        ],
+        "frequentlyAskedQuestions": [
+          {
+            "question": "Can you help us choose GRC or compliance automation tooling?",
+            "answer": "Yes. We can help clients evaluate and work with a suitable GRC or compliance automation platform based on their needs. Drata is one example, and ControlSolid maintains relationships with multiple technology providers in this category. Clients may choose the platform that fits their requirements. These relationships do not imply endorsement, certification, authorization, requirement, reseller arrangement, or exclusivity."
+          }
+        ],
+        "website": "https://controlsolid.com",
+        "independenceLimitation": "ControlSolid provides advisory readiness, gap-assessment consulting and scoped GRC engineering support. Provider-generated checks are not independent assessment. ControlSolid does not act as a 3PAO, perform the independent assessment it helps prepare, issue FedRAMP authorization or certification, or guarantee an agency Authorization to Operate, government endorsement, marketplace acceptance or completion dates.",
+        "advisor_id": "controlsolid",
+        "fedramp_listing_timestamp": "2026-11-04T16:43:00Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:26Z"
+      },
+      {
+        "$schema": "https://fedramp.gov/schemas/fedramp-advisor-information-schema-2026-06-24.json",
+        "advisorName": "Virtual Infrastructure Services LLC",
+        "logo": "https://virtual-infra.com/images/virtual-logo.png",
+        "serviceDescription": "Virtual Infrastructure Services LLC advises cloud service providers preparing for and maintaining FedRAMP Certification under the Consolidated Rules for 2026. VIS defines the Minimum Assessment Scope, builds automated Key Security Indicator validations as code on Azure Government, Microsoft 365 GCC High and AWS GovCloud, and helps providers prepare their certification package and ongoing certification. VIS acts only as an advisor: it does not perform independent assessments.",
+        "contactInformation": {
+          "pointOfContactName": "Upendar Vellore Narendar",
+          "jobTitle": "Founder and CEO",
+          "email": "info@virtual-infra.com",
+          "phone": "+1-732-200-7351",
+          "companyWebsite": "https://virtual-infra.com/"
+        },
+        "servicesOffered": [
+          {
+            "serviceName": "20x Readiness Review and Minimum Assessment Scope",
+            "serviceDescription": "Confirms the right certification path and class, defines the Minimum Assessment Scope, and checks whether a SOC 2 Type II or GovRAMP result qualifies for Class A."
+          },
+          {
+            "serviceName": "KSI Validation Engineering",
+            "serviceDescription": "Automated validations for each Key Security Indicator, built as policy and infrastructure as code on Azure Government, Microsoft 365 GCC High and AWS GovCloud."
+          },
+          {
+            "serviceName": "VDR/VER Readiness Sprint",
+            "serviceDescription": "A fixed-scope project to adopt the Vulnerability Detection and Response and Vulnerability Evaluation and Reporting rules, mandatory from 7 December 2026."
+          },
+          {
+            "serviceName": "Package and Assessment Preparation",
+            "serviceDescription": "Helps the provider prepare its Security Decision Record, Certification Package Overview and machine-readable data, and supports it through the independent assessment."
+          },
+          {
+            "serviceName": "Ongoing Certification Support",
+            "serviceDescription": "An annual subscription to review and tune validations, classify significant changes, review ongoing certification reports and prepare for each annual assessment."
+          },
+          {
+            "serviceName": "Rev5 to CR26 Transition",
+            "serviceDescription": "A plan for Rev5-certified services to adopt the Consolidated Rules for 2026 and, where it fits, move to FedRAMP 20x."
+          }
+        ],
+        "advisor_id": "virtual-infrastructure-services-llc",
+        "fedramp_listing_timestamp": "2026-11-04T16:43:00Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:28Z"
+      },
+      {
+        "advisorName": "Aether Security",
+        "logo": "https://static.wixstatic.com/media/d4f0d2_e79988712edb483da3f89b7f1246bc3c~mv2.png",
+        "serviceDescription": "Aether Security is a veteran-founded cybersecurity consulting firm based in Las Vegas, NV. We provide hands-on advisory services for cloud service providers pursuing FedRAMP Certification under the Consolidated Rules for 2026 (FedRAMP 20x and Rev5), along with NIST Risk Management Framework (RMF), CMMC readiness, privacy and data protection, and secure cloud architecture for GCC High and AWS environments. Aether Security acts as an advisor and does not perform independent FedRAMP assessments.",
+        "contactInformation": {
+          "pointOfContactName": "Raziel Toro",
+          "jobTitle": "Chief Executive Officer",
+          "email": "razieltoro@aethersecurity.com",
+          "phone": "+1 941 334 9133",
+          "companyWebsite": "https://www.aethersecurity.com"
+        },
+        "servicesOffered": [
+          {
+            "serviceName": "FedRAMP 20x Advisory",
+            "serviceDescription": "Key Security Indicator (KSI) alignment, machine-readable evidence and package design, certification class and path selection, and preparation for engagement with a FedRAMP-recognized independent assessor."
+          },
+          {
+            "serviceName": "FedRAMP Certification Readiness and Documentation",
+            "serviceDescription": "Readiness review, gap analysis, documentation development, and control implementation support for cloud service providers pursuing FedRAMP Certification (20x)."
+          },
+          {
+            "serviceName": "Risk Management Framework (RMF) Support",
+            "serviceDescription": "Guidance through each NIST RMF step, from system categorization and control selection through authorization to operate (ATO) and continuous monitoring."
+          },
+          {
+            "serviceName": "CMMC Gap Assessment and Consulting",
+            "serviceDescription": "Comparison of current practices against CMMC and NIST SP 800-171 requirements, prioritized remediation roadmap, and end-to-end support from scoping and SSP/POA&M documentation to assessment readiness."
+          },
+          {
+            "serviceName": "Cloud Security Architecture (GCC High, AWS)",
+            "serviceDescription": "Design, migration, and configuration of cloud environments to meet federal and regulatory requirements."
+          },
+          {
+            "serviceName": "Privacy and Data Protection",
+            "serviceDescription": "Programs and policies aligned with applicable privacy regulations and frameworks."
+          },
+          {
+            "serviceName": "Vulnerability Management",
+            "serviceDescription": "Continuous identification, prioritization, and remediation support for weaknesses across cloud and on-premises environments."
+          }
+        ],
+        "advisor_id": "aether-security",
+        "fedramp_listing_timestamp": "2026-11-03T15:23:10.583Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:27Z"
+      },
+      {
+        "advisorName": "Automata",
+        "logo": "https://www.automata.org/automata-mark.svg",
+        "serviceDescription": "Automata helps cloud service providers prepare for FedRAMP certification under Rev5 or 20x: we recommend the route and class, assess readiness against the baseline or the Key Security Indicators, write the documentation and evidence, engineer the fixes in the government clouds, and prepare for the independent assessment and the monitoring that follows. Automata does not assess or certify offerings.",
+        "contactInformation": {
+          "pointOfContactName": "Chris Rule",
+          "jobTitle": "Chief Operating Officer",
+          "email": "fedramp@automata.org",
+          "phone": "202-209-2906",
+          "companyWebsite": "https://www.automata.org"
+        },
+        "servicesOffered": [
+          {
+            "serviceName": "Rev5 or 20x recommendation",
+            "serviceDescription": "We compare your offering with the 20x class definitions and the Rev5 baselines, then recommend which to pursue and at which class."
+          },
+          {
+            "serviceName": "Readiness assessment",
+            "serviceDescription": "We test the live configuration control by control against the Rev5 baseline, or indicator by indicator against the KSIs."
+          },
+          {
+            "serviceName": "Documentation and evidence",
+            "serviceDescription": "For Rev5 we write the SSP, policies, procedures and POA&M, including the controls your providers’ customer responsibility matrices (CRMs) leave to you. For 20x we put together the evidence that shows each indicator is met."
+          },
+          {
+            "serviceName": "Cloud security engineering",
+            "serviceDescription": "We harden identity, segmentation, key management and logging on AWS GovCloud (US), Azure Government or Assured Workloads, and deliver the work as infrastructure as code."
+          },
+          {
+            "serviceName": "Assessment preparation and continuous monitoring",
+            "serviceDescription": "We prepare everyone who speaks to a control for the independent assessor’s interviews. Afterward we run the ongoing cycle with you, which covers scans, POA&M updates and significant-change reporting."
+          }
+        ],
+        "advisor_id": "automata",
+        "fedramp_listing_timestamp": "2026-11-03T15:23:10.583Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:29Z"
+      },
+      {
+        "advisorName": "MARFI Systems Incorporated",
+        "logo": "https://marfi.ai/apple-touch-icon.png",
+        "serviceDescription": "MARFI is a US-based team that provides IT, cybersecurity, compliance, and secure AI services to companies in regulated industries. As a FedRAMP advisor, MARFI helps cloud service providers get ready for FedRAMP: compliance readiness reviews, internal audits and gap analysis against FedRAMP and NIST requirements, remediation planning, and preparation of security documentation and evidence. MARFI can also help providers move faster through its Launchpad DIB product, a done-for-you, managed enclave that MARFI implements and operates on government cloud platforms, with defense in depth and zero trust controls and a 24/7 security operations center. MARFI is an advisory service. It does not perform independent FedRAMP assessments and does not endorse or guarantee any FedRAMP outcome.",
+        "contactInformation": {
+          "pointOfContactName": "Daniel Mehditash",
+          "jobTitle": "Co-Founder",
+          "email": "danny@marfi.io",
+          "phone": "+1-323-410-7234",
+          "companyWebsite": "https://marfi.ai"
+        },
+        "additionalContacts": [
+          {
+            "pointOfContactName": "Brian Stretch",
+            "jobTitle": "Co-Founder, IT Operations",
+            "email": "brian@marfi.io",
+            "phone": "+1-323-410-7234",
+            "companyWebsite": "https://marfi.ai"
+          },
+          {
+            "pointOfContactName": "Shay Koll",
+            "jobTitle": "Head of Sales",
+            "email": "shay@marfi.io",
+            "phone": "+1-323-410-7234",
+            "companyWebsite": "https://marfi.ai"
+          }
+        ],
+        "servicesOffered": [
+          {
+            "serviceName": "FedRAMP readiness advisory",
+            "serviceDescription": "Compliance readiness reviews and roadmaps for cloud service providers preparing for FedRAMP."
+          },
+          {
+            "serviceName": "Internal audits and gap analysis",
+            "serviceDescription": "Internal audits and gap analyses against FedRAMP and NIST SP 800-53 and 800-171 requirements, with prioritized remediation plans."
+          },
+          {
+            "serviceName": "Launchpad DIB managed enclave",
+            "serviceDescription": "Done-for-you managed enclave implemented and operated by MARFI to help providers accelerate preparation, with defense in depth, zero trust, and multicloud support across Azure, AWS GovCloud, and Google Cloud."
+          },
+          {
+            "serviceName": "24/7 security operations center",
+            "serviceDescription": "Round-the-clock monitoring, managed detection and response, vulnerability and exposure management, and incident response and recovery."
+          },
+          {
+            "serviceName": "Security documentation and evidence",
+            "serviceDescription": "Support preparing system security plans, plans of action and milestones (POA&M), policies, and audit-ready evidence packages."
+          },
+          {
+            "serviceName": "Continuous monitoring and control evidence",
+            "serviceDescription": "Ongoing control operation and evidence collection to keep providers ready between assessments."
+          },
+          {
+            "serviceName": "Managed IT and identity",
+            "serviceDescription": "US-based managed IT, device management, and identity and access (single sign-on) for regulated environments."
+          },
+          {
+            "serviceName": "vCISO and security leadership",
+            "serviceDescription": "Virtual CISO guidance for regulated and defense industrial base companies."
+          },
+          {
+            "serviceName": "CMMC and NIST SP 800-171 readiness",
+            "serviceDescription": "Scoping, implementation, and evidence for defense industrial base companies."
+          },
+          {
+            "serviceName": "Secure AI governance",
+            "serviceDescription": "AI governance, acceptable use, model, vendor and data-flow review for regulated organizations."
+          }
+        ],
+        "advisor_id": "marfi-systems-incorporated",
+        "fedramp_listing_timestamp": "2026-11-03T15:23:10.583Z",
+        "last_fetched_timestamp": "2026-11-08T05:10:30Z"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "serviceIdentification": {
-    "fedRampPackageId": "FR2101000225",
+    "fedRampPackageId": "FR2417642331",
     "providerName": "PlanStreet",
     "serviceName": "PlanStreet Case Management System",
     "serviceAcronym": "PlanStreet Case Management System",
@@ -14,7 +14,16 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Collaboration",
+      "Communication",
+      "Contact Center",
+      "Customer Relations Management (CRM)",
+      "Data Management",
+      "Grant Management"
+    ]
   },
   "contactInformation": [
     {
@@ -30,6 +39,6 @@
     "name": "First Information Technology Services, Inc.",
     "assessorID": "137801"
   },
-  "ZD_frid_retro": "FR2101000225",
+  "ZD_frid_retro": "FR2417642331",
   "id_matches_expected": true
 }

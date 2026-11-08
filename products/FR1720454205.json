@@ -13,7 +13,14 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Legal & Policy",
+      "Network Management",
+      "Operations Management"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +35,26 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2420341612",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2100059668",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1720454205",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2219763604",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR1720454205",
   "id_matches_expected": true

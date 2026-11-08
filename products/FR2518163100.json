@@ -13,7 +13,12 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Data Management",
+      "Network Management"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +33,14 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2523656707",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2518163100",
   "id_matches_expected": true

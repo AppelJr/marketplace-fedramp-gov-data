@@ -14,7 +14,16 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Accounting",
+      "Analytics",
+      "Education & Training",
+      "Finance",
+      "Fleet Management",
+      "Mobile Device Management (MDM)",
+      "Operations Management"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +38,14 @@
   "assessor": {
     "name": "Kratos",
     "assessorID": "137255"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2018946952",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2018946952",
   "id_matches_expected": true

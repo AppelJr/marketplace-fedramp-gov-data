@@ -13,7 +13,11 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Cybersecurity & Risk Management",
+      "Education & Training"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +32,26 @@
   "assessor": {
     "name": "Fortreum, LLC",
     "assessorID": "201664"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2427142353",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2430123303",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR1902240018",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2433985791",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2201340492",
   "id_matches_expected": true

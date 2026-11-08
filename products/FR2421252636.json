@@ -13,7 +13,13 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Legal & Policy",
+      "Storage"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +34,14 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2421252644",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2421252636",
   "id_matches_expected": true

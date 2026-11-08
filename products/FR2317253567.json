@@ -14,7 +14,18 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Communication",
+      "Content Management System (CMS)",
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Mobile Device Management (MDM)",
+      "Network Management",
+      "System Administration",
+      "Virtual Private Network (VPN)"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +40,22 @@
   "assessor": {
     "name": "Fortreum, LLC",
     "assessorID": "201664"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2406651384",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2516365096",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2103344623",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2317253567",
   "id_matches_expected": true

@@ -14,7 +14,10 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Cybersecurity & Risk Management"
+    ]
   },
   "contactInformation": [
     {
@@ -30,6 +33,23 @@
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
   },
+  "certifiedServices": [
+    {
+      "serviceName": "Launchpoint+",
+      "serviceDescription": "",
+      "dateAvailable": "2023-12-19"
+    },
+    {
+      "serviceName": "Platform Services",
+      "serviceDescription": "",
+      "dateAvailable": "2023-12-19"
+    },
+    {
+      "serviceName": "Smartscan",
+      "serviceDescription": "",
+      "dateAvailable": "2023-12-19"
+    }
+  ],
   "ZD_frid_retro": "FR2134635186",
   "id_matches_expected": true
 }

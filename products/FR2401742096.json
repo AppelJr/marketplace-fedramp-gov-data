@@ -13,7 +13,15 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Collaboration",
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Education & Training",
+      "Human Resources",
+      "Operations Management"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +37,13 @@
     "name": "Lunarline, Inc.",
     "assessorID": "137004"
   },
+  "certifiedServices": [
+    {
+      "serviceName": "CyberSTAR™ SaaS",
+      "serviceDescription": "",
+      "dateAvailable": "2024-02-21"
+    }
+  ],
   "ZD_frid_retro": "FR2401742096",
   "id_matches_expected": true
 }

@@ -14,7 +14,19 @@
     "serviceType": [
       "IaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Collaboration",
+      "Communication",
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Legal & Policy",
+      "Network Management",
+      "Operations Management",
+      "Storage",
+      "System Administration",
+      "Virtual Private Network (VPN)"
+    ]
   },
   "contactInformation": [
     {
@@ -30,6 +42,38 @@
     "name": "Fortreum, LLC",
     "assessorID": "201664"
   },
+  "certifiedServices": [
+    {
+      "serviceName": "IaaS",
+      "serviceDescription": "",
+      "dateAvailable": "2023-10-27"
+    },
+    {
+      "serviceName": "NSX-T",
+      "serviceDescription": "",
+      "dateAvailable": "2023-10-27"
+    },
+    {
+      "serviceName": "VCD",
+      "serviceDescription": "",
+      "dateAvailable": "2023-10-27"
+    },
+    {
+      "serviceName": "VCF",
+      "serviceDescription": "",
+      "dateAvailable": "2025-03-17"
+    },
+    {
+      "serviceName": "VMware Cloud Director",
+      "serviceDescription": "",
+      "dateAvailable": "2025-03-17"
+    },
+    {
+      "serviceName": "VMware Cloud Foundation",
+      "serviceDescription": "",
+      "dateAvailable": "2025-03-17"
+    }
+  ],
   "ZD_frid_retro": "FR2108731521",
   "id_matches_expected": true
 }

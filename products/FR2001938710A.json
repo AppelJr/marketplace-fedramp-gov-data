@@ -13,7 +13,12 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Cybersecurity & Risk Management",
+      "System Administration"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +34,45 @@
     "name": "Fortreum, LLC",
     "assessorID": "201664"
   },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2518163100",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "F1404304159",
+        "useCase": ""
+      }
+    ]
+  },
+  "certifiedServices": [
+    {
+      "serviceName": "Cloud Infrastructure Entitlement Management",
+      "serviceDescription": "",
+      "dateAvailable": "2025-02-18"
+    },
+    {
+      "serviceName": "Data Access Security",
+      "serviceDescription": "",
+      "dateAvailable": "2025-02-18"
+    },
+    {
+      "serviceName": "Machine Identity Security",
+      "serviceDescription": "",
+      "dateAvailable": "2025-02-18"
+    },
+    {
+      "serviceName": "Non-Employee Risk Management",
+      "serviceDescription": "",
+      "dateAvailable": "2025-02-18"
+    },
+    {
+      "serviceName": "Password Management",
+      "serviceDescription": "",
+      "dateAvailable": "2025-02-18"
+    }
+  ],
   "ZD_frid_retro": "FR2001938710A",
   "id_matches_expected": true
 }

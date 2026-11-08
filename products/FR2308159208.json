@@ -13,7 +13,14 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Government Community Cloud"
+    "deploymentModel": "Government Community Cloud",
+    "businessCategory": [
+      "Analytics",
+      "Collaboration",
+      "Cybersecurity & Risk Management",
+      "Data Management",
+      "Research"
+    ]
   },
   "contactInformation": [
     {
@@ -28,6 +35,18 @@
   "assessor": {
     "name": "Fortreum, LLC",
     "assessorID": "201664"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2520950455",
+        "useCase": ""
+      },
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "F1308202329",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2308159208",
   "id_matches_expected": true

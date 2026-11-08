@@ -14,7 +14,10 @@
     "serviceType": [
       "SaaS"
     ],
-    "deploymentModel": "Public Cloud"
+    "deploymentModel": "Public Cloud",
+    "businessCategory": [
+      "Collaboration"
+    ]
   },
   "contactInformation": [
     {
@@ -29,6 +32,14 @@
   "assessor": {
     "name": "Schellman Compliance, LLC",
     "assessorID": "136571"
+  },
+  "thirdPartyInformationResources": {
+    "certified": [
+      {
+        "fedRampCertifiedThirdPartyInformationResource": "FR2527132001",
+        "useCase": ""
+      }
+    ]
   },
   "ZD_frid_retro": "FR2527132001",
   "id_matches_expected": true
